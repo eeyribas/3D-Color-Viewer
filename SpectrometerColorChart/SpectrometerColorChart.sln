@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpectrometerColorChart", "SpectrometerColorChart.csproj", "{FCB85D8F-CECA-45CE-A483-66050A69042D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCB85D8F-CECA-45CE-A483-66050A69042D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB85D8F-CECA-45CE-A483-66050A69042D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB85D8F-CECA-45CE-A483-66050A69042D}.Debug|x64.ActiveCfg = Debug|x64
+		{FCB85D8F-CECA-45CE-A483-66050A69042D}.Debug|x64.Build.0 = Debug|x64
+		{FCB85D8F-CECA-45CE-A483-66050A69042D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB85D8F-CECA-45CE-A483-66050A69042D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCB85D8F-CECA-45CE-A483-66050A69042D}.Release|x64.ActiveCfg = Release|x64
+		{FCB85D8F-CECA-45CE-A483-66050A69042D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7669350-A84E-4645-9C4F-3F1C389C6300}
+	EndGlobalSection
+EndGlobal

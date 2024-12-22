@@ -1,0 +1,10 @@
+D:\BACKUP\GitHub Calismalar\3D-Color-Viewer\SpectrometerColorChart\bin\Debug\SpectrometerColorChart.exe.config
+D:\BACKUP\GitHub Calismalar\3D-Color-Viewer\SpectrometerColorChart\bin\Debug\SpectrometerColorChart.exe
+D:\BACKUP\GitHub Calismalar\3D-Color-Viewer\SpectrometerColorChart\bin\Debug\SpectrometerColorChart.pdb
+D:\BACKUP\GitHub Calismalar\3D-Color-Viewer\SpectrometerColorChart\obj\Debug\SpectrometerColorChart.csproj.AssemblyReference.cache
+D:\BACKUP\GitHub Calismalar\3D-Color-Viewer\SpectrometerColorChart\obj\Debug\SpectrometerColorChart.Form1.resources
+D:\BACKUP\GitHub Calismalar\3D-Color-Viewer\SpectrometerColorChart\obj\Debug\SpectrometerColorChart.Properties.Resources.resources
+D:\BACKUP\GitHub Calismalar\3D-Color-Viewer\SpectrometerColorChart\obj\Debug\SpectrometerColorChart.csproj.GenerateResource.cache
+D:\BACKUP\GitHub Calismalar\3D-Color-Viewer\SpectrometerColorChart\obj\Debug\SpectrometerColorChart.csproj.CoreCompileInputs.cache
+D:\BACKUP\GitHub Calismalar\3D-Color-Viewer\SpectrometerColorChart\obj\Debug\SpectrometerColorChart.exe
+D:\BACKUP\GitHub Calismalar\3D-Color-Viewer\SpectrometerColorChart\obj\Debug\SpectrometerColorChart.pdb
